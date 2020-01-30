@@ -1,0 +1,36 @@
+'1:Ci sono grani ben visibili a occhio nudo 2:Non ci sono grani visibili a occhio nudo' , 1 , 23 , 0, 0, ,
+'1:I grani sono cristalli 2:I grani non sono cristalli', 2, 16, 0, 0, ,
+'1:Ci sono solo cristalli 2:I cristalli sono sparsi in abbondante matrice', 3, 12, 0, 0, ,
+'1:I cristalli sono tutti di colore bianco brillante simili allo zucchero 2:I cristalli hanno colori diversi', 3, 4, 1, 0, 'MARMO SACCAROIDE - Metamorfismo termico' ,
+'1:I cristalli sono solo trasparenti, bianchi e neri 2:Ci sono anche cristalli di altri colori', 5, 9, 0, 0, ,
+'1:I cristalli chiari sono più abbondanti di quelli scuri 2:I cristalli scuri sono in quantità uguale o superiore a quelli chiari', 6, 10, 0, 0, ,
+'1:I cristalli sono disposti casualmente 2:Ci sono piccoli cristalli scuri ordinati in piccoli strati con parti circolari bianche', 7, 5, 0, 1, ,'GNEISS - Metamorfismo regionale'
+'1:I cristalli hanno dimensioni simili 2:I cristalli sono bianchi, pochi i cristalli trasparenti e grossi cristalli neri', 8, 7, 0, 1, ,'TONALITE - Magmatica intrusiva medio-acida'
+'1:I cristalli trasparenti e bianchi sono abbondanti 2:I cristalli bianchi sono meno della precedente, ma superiori alla metà', 8, 8, 1, 1, 'GRANITO - Magmatica intrusiva acida','GRANODIORITE - Magmatica intrusiva medio-acida'
+'1:I cristalli sono trasparenti, bianchi, rosa con qualche cristallo nero 2:Ci sono cristalli di colore grigio-violaceo', 9, 9, 1, 1, 'GRANITO ROSA - Magmatica intrusiva acida','SIENITE - Magmatica intrusiva neutra'
+'1:C'è un'uguale quantità di cristalli bianchi e neri 2:I cristalli neri sono superiori a quelli chiari', 10, 11, 1, 0, 'DIORITE - Magmatica intrusiva neutra',
+'1:Ci sono solo grandi cristalli scuri o neri 2:Ci sono solo grandi cristalli scuri o neri', 11, 11, 0, 0, 'GABBRO (NORITE) - Magmatica intrusiva basica','GABBRO EUFOTIDE - Magmatica intrusiva basica'
+'1:È di colore chiaro, bianca, giallastra o rosata 2:È di colore grigio o altri colori più scuri', 13, 14, 0, 0, ,
+'1:È di colore bianco, grigio chiaro o rosato con piccoli brillantini 2:È di colore molto chiaro, opaca, con sparsi pochi piccoli cristallini più scuri', 13, 13, 1, 1, 'DOLOMIA - Sedimentaria organogena','RIOLITE - Magmatica effusuva acida'
+'1:è di colore grigio con pochi cristalli scuri e alcune inclusioni chiare 2:Non come sopra', 14, 15, 1, 0, 'TRACHITE - Magmatica effusiva neutra',
+'1:È di colore rosso scuro, marrone o grigio scuro con inclusioni sparse di colore chiaro o scuro 2:È di colore grigio-marrone con grossi cristalli verdi, rosso scuro, marrone o bianchi', 15, 15, 1, 1, 'PORFIDO - Magmatica effusiva acida','ANDESITE - Magmatica effusiva neutra'
+'1:I grani sono frammenti di minerali o rocce 2:i grani sono frammenti di conchiglie o altri fossili'
+'1:I grani sono simili alla ghiaia 2:I grani sono più piccoli della ghiaia', 17, 16, 0, 1, ,'CALCARE FOSSILIFERO - Sedimentaria organogena'
+'1:Sono presenti sassolini di diverse dimensioni, a spigoli vivi, cementati su una matrice a grana più fine 2:Sono presenti sassolini di diverse dimensioni, a spigoli arrotondati, cementati su una matrice a grana più fine', 18, 19, 0, 0, ,
+'1:È formata da tanti granelli di sabbia 2:È di aspetto polveroso', 18, 18, 0, 0, 'BRECCIA - Sedimentaria clastica','PUDDINGA - Sedimentaria clastica'
+'1:Rilascia polvere terrosa 2:Rilascia polvere nera', 19, 20, 1, 0, 'ARENARIA - Sedimentaria clastica',
+'1:È di aspetto polveroso o fangoso, molto tenera, impastabile con acqua, senza fossili 2:È di aspetto polveroso o compatto, con odore di fango, con, a volte, frustuli di vegetali', , , , , ,
+'1:È molto leggera e polverosa, di colore nero opaco 2:È leggera e polverosa, di colore nero lucente, si rompe in lamine', , , , , ,
+'1:È simile al vetro di colore nero 2:Non ha un aspetto vetroso', , , , , ,
+'1:Ha una struttura omogenea 2:Non ha una struttura omogenea', , , , , ,
+'1:È di colore grigio molto scuro o nero, opaca, senza cristalli ben visibili, senza frattura concoide e pesante 2:Non è nera o grigio molto scuro', , , , , ,
+'1:È di colore rosso scuro o grigio scuro o chiaro, di aspetto vetroso, circondata da roccia opaca di diverso colore 2:È liscia, compatta, a frattura concoide, di colore bianco, grigio chiaro, scuro o rosso', , , , , ,
+'1:Presenta piccole cavità 2:È suddivisa in sottili straterelli', , , , , ,
+'1:È di colore grigio, porosa e molto leggera 2:ono ben evidenti bande stratificate di colore grigio chiaro o marroncino con piccole bolle', , , , , ,
+'1:È una roccia scistosa di colore grigio argenteo con a volte cristalli di colore rosso scuro 2:È di colore grigio argenteo, grigio scuro, verdastra o nera, liscia, ondulata e fortemente scistosa', , , , , ,
+
+
+
+
+
+'1: 2:', , , , , ,
